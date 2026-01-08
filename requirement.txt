@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+tensorflow
+torch
+torchvision
+adversarial-robustness-toolbox
+scikit-learn
+opencv-python
