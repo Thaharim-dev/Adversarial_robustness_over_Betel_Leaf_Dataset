@@ -7,12 +7,12 @@ Betel leaf diseases using a hybrid CNN–LSTM model and evaluates robustness aga
 <img width="1221" height="236" alt="Screenshot_419" src="https://github.com/user-attachments/assets/842bb8a2-b845-4f8e-8f7d-7371859ed17c" />
 
 
-# Adversarial Robustness over Betel Leaf Dataset
+# Adversarial Robustness 
 
 This project explores the vulnerability and robustness of deep learning models applied to a Betel Leaf classification dataset. It specifically implements adversarial attacks and evaluates model performance under perturbed conditions.
 
 ## 🚀 Features
-* **Custom Dataset:** Processing and augmentation of Betel Leaf imagery.
+* **Custom Dataset:** Processing and augmentation of the dataset.
 * **Model Training:** Implementation of CNN-based architectures for classification.
 * **Adversarial Attacks:** Implementation of techniques (e.g., FGSM, PGD) to test model security.
 * **Robustness Evaluation:** Comparative analysis of accuracy on clean vs. adversarial data.
